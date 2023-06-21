@@ -1,0 +1,58 @@
+#who {
+    text-align:center;
+    
+}
+
+
+body {
+    background-color:azure;
+}
+
+#one {
+    width: 1000px;
+    border-color:black;
+
+}
+
+#two {
+    height:900px;
+    border-color:black;
+    margin-right:441px;
+    margin-top:-10px;
+    width:0.01px;
+
+}
+
+#three {
+    height:900px;
+    width:0.01px;
+    border-color:black;
+    margin-left:441px;
+    margin-top:-910px;
+}
+
+#four {
+    width:1003px;
+    border-color:black;
+    height:0.01px;
+    margin-top:-10px;
+
+}
+#asked {
+    text-align:center;
+    margin-top:-920px;
+    color:blue;
+}
+
+#kashif {
+    text-align:center;
+    margin-top:35px;
+}
+
+#dad-not-found{
+    background-color:brown;
+    color:aqua;
+    border-color:black;
+    height:40px;
+}
+
